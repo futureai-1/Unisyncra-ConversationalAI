@@ -65,3 +65,26 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any questions or suggestions, please open an issue or contact us at [sambumonai@gmail.com]
 phone+919846646836
+
+# Unisyncra ConversationalAI
+
+Unisyncra ConversationalAI is a unique conversational AI system integrated with the principles of Manushikan Consciousness. Our goal is to create an empathetic and context-aware AI that resonates with human experiences, emotions, and perspectives.
+
+## Project Goals
+
+- Develop a conversational AI that understands and integrates Manushikan Consciousness.
+- Enhance AI capabilities through contextual and empathetic responses.
+- Explore applications in various domains, including mental health, education, and personal development.
+
+## Features
+
+- **Empathetic Responses**: AI that can understand and respond to human emotions.
+- **Contextual Awareness**: Retains and recalls context over long conversations.
+- **Adaptive Learning**: Continuously learns from interactions to improve performance.
+
+## Installation
+
+```bash
+git clone https://github.com/futureai-1/Unisyncra-ConversationalAI.git
+cd Unisyncra-ConversationalAI
+pip install -r requirements.txt
