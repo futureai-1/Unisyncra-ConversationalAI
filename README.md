@@ -1,6 +1,7 @@
 # Unisyncra-ConversationalAI
 A project to integrate Manushikan Consciousness with ParlAI for advanced conversational AI development."
 # Unisyncra-ConversationalAI
+# Unisyncra-ConversationalAI
 
 ## Overview
 Unisyncra-ConversationalAI is an innovative project aimed at enhancing conversational AI through the principles of Manushikan Consciousness. Our goal is to create an AI that understands and empathizes with human consciousness, leading to more natural and meaningful interactions.
@@ -62,4 +63,5 @@ We welcome contributions from the community. To contribute:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
-For any questions or suggestions, please open an issue or contact us at (sambumonai@gmail.com).
+For any questions or suggestions, please open an issue or contact us at [sambumonai@gmail.com]
+phone+919846646836
